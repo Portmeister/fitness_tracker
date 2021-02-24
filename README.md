@@ -8,7 +8,7 @@ A fitness tracking app utilizing Node, Express, MongoDB and Mongoose. Allows the
 
 # Deployment:
 - Github Repository: https://github.com/Portmeister/fitness_tracker
-- Heroku Link:
+- Heroku Link: https://fitness-track-application.herokuapp.com/
 
 # Images
 Image of main view:
